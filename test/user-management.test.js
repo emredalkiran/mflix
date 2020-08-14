@@ -1,8 +1,10 @@
 import UsersDAO from "../src/dao/usersDAO"
 const testUser = {
-  name: "Magical Mr. Mistoffelees",
-  email: "magicz@cats.com",
-  password: "somehashedpw",
+
+  //This credentials are for test purposes only. Never ever keep your credential information on any git based repositories.
+  name: "Emre",
+  email: "emre@asdasd.com",
+  password: "$2a$10$LBWIyUmYK/G/AZ7392r2u.gh0pP.bz0tgnf2SxJR8N062KqNk8fLa",
 }
 
 const sessionUser = {
